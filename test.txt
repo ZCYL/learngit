@@ -1,0 +1,3 @@
+this is a notepad++ test
+in order to practice git，I try to use this notepad++ to test.
+I want to test when I change the document,whether could I find last version,
